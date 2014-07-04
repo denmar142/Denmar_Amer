@@ -1,0 +1,10 @@
+C:\Users\DENMAR\Desktop\Yan\3rd_Assignment\3rd_Assignment\bin\Debug\3rd_Assignment.exe.config
+C:\Users\DENMAR\Desktop\Yan\3rd_Assignment\3rd_Assignment\bin\Debug\3rd_Assignment.exe
+C:\Users\DENMAR\Desktop\Yan\3rd_Assignment\3rd_Assignment\bin\Debug\3rd_Assignment.pdb
+C:\Users\DENMAR\Desktop\Yan\3rd_Assignment\3rd_Assignment\obj\Debug\3rd_Assignment.csprojResolveAssemblyReference.cache
+C:\Users\DENMAR\Desktop\Yan\3rd_Assignment\3rd_Assignment\obj\Debug\_3rd_Assignment.Form1.resources
+C:\Users\DENMAR\Desktop\Yan\3rd_Assignment\3rd_Assignment\obj\Debug\_3rd_Assignment.frmInputnumber.resources
+C:\Users\DENMAR\Desktop\Yan\3rd_Assignment\3rd_Assignment\obj\Debug\_3rd_Assignment.Properties.Resources.resources
+C:\Users\DENMAR\Desktop\Yan\3rd_Assignment\3rd_Assignment\obj\Debug\3rd_Assignment.csproj.GenerateResource.Cache
+C:\Users\DENMAR\Desktop\Yan\3rd_Assignment\3rd_Assignment\obj\Debug\3rd_Assignment.exe
+C:\Users\DENMAR\Desktop\Yan\3rd_Assignment\3rd_Assignment\obj\Debug\3rd_Assignment.pdb
